@@ -1,0 +1,22 @@
+{
+  "name": "lamda-dynamo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurricanew/lamda-dynamo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurricanew/lamda-dynamo/issues"
+  },
+  "homepage": "https://github.com/hurricanew/lamda-dynamo#readme",
+  "dependencies": {
+    "serverless-offline": "^3.31.3"
+  }
+}
